@@ -1,2 +1,3 @@
 # airline_flight_delay
 Airline Flight Delay Analysis
+Flight delays are a significant challenge for both the airline and passengers, causing disruptions, financial losses, and dissatisfaction. As part of the airline’s data analytics team, my goal is to analyze historical flight data to uncover delay patterns, identify operational inefficiencies, and predict delays before they occur. By identifying delay patterns, predicting delays, and uncovering the factors that contribute most to delays, I am able to drive operational efficiency and enhance the overall passenger experience. My insights helped the airline make data-driven decisions to optimize scheduling, improve on-time performance, and enhance passenger satisfaction.
